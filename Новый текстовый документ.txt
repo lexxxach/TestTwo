@@ -1,4 +1,4 @@
-//
+//example
 function create(){
 	let v = 1;
 	return v;
